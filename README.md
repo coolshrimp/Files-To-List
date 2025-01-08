@@ -2,7 +2,7 @@
 
 Easily generate a list of all files within any specified directory—perfect for quickly cataloging folders full of files, movies, and more.
 
-![Main Interface Screenshot](./screenshot.png)
+![Main Interface Screenshot](./screenshot.jpg)
 
 ---
 
